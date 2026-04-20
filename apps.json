@@ -684,5 +684,20 @@
     ],
     "actividad": "Primera Claseeee",
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
-  }
+  },
+
+{
+    "nombreapp": "MoodZone",
+    "descripcion": "Es una app donde puedes registrar tus emociones dependiendo en la zona que te encuentres. ",
+    "icono": "https://www.flaticon.es/icono-gratis/sorpresa_6578530?term=emoji+sorpresa&page=3&position=80&origin=search&related_id=6578530",
+    "grupo": "lunes",
+    "fecha": "2026-04-06",
+    "id": 1,
+    "integrantes": [
+      "",
+      "Julian ricardo viloria hoyos",
+      "Brayan felipe moya valiente"
+  },
+  
 ]
+
